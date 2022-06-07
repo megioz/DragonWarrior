@@ -2975,6 +2975,10 @@ PrefabInstance:
       propertyPath: fireballs.Array.data[8]
       value: 
       objectReference: {fileID: 658653017}
+    - target: {fileID: 6351994141437669106, guid: 199915fd4c83693488cc2fce88f83057, type: 3}
+      propertyPath: checkpointSound
+      value: 
+      objectReference: {fileID: 8300000, guid: bbb143cfc7235394a9f4ebd0c3b9d3c1, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 199915fd4c83693488cc2fce88f83057, type: 3}
 --- !u!4 &613224077 stripped
